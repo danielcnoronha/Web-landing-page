@@ -69,12 +69,7 @@ ul {
     width: 350px;
 
 }
-.placeholder {
-    display: flex;
-   align-items: center;
-  background-color: grey;
-   padding: 100px;
-}
+
 
 .mid-section-one {
     display: flex;
@@ -186,8 +181,18 @@ ul {
  
  .footer {
     display: flex;
-    padding:50px;
+    padding:20px;
     justify-content: center;
     color: #E5E7EB;
     background-color: #1F2937;
+ }
+
+ .computer {
+    height: auto;
+    width: 550px;
+ }
+
+ .teacher {
+    height: auto;
+    width: 200px;
  }
