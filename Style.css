@@ -43,6 +43,7 @@ ul {
     font-weight: 900;
     margin: 0;
     padding: 0; 
+    width: 500px;
 }
 
 .secondary-text, .box-text {
@@ -193,6 +194,21 @@ ul {
  }
 
  .teacher {
+    height: auto;
+    width: 200px;
+ }
+
+ .code-screen {
+    height: auto;
+    width: 200px;
+ }
+
+ .front {
+    height: auto;
+    width: 200px;
+ }
+
+ .resume {
     height: auto;
     width: 200px;
  }
